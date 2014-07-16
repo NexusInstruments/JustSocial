@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Addon Author="Chronosis" APIVersion="9" Name="JustSocial" Description="Replacement for Carbine&apos;s SocialPanel and Circles addons" Version="0.0.6">
+    <Script Name="JustSocial.lua"/>
+    <Form Name="JustSocial.xml"/>
+    <Form Name="JustCircles.xml"/>
+    <Script Name="JustCircles.lua"/>
+    <ReplaceAddon Name="Circles"/>
+    <ReplaceAddon Name="SocialPanel"/>
+</Addon>
